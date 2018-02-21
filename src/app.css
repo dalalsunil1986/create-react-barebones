@@ -1,11 +1,11 @@
 body {
   margin: 0;
   padding: 32px;
-  background-color: #eeeeee;
+  background-color: #3a86f9;
 }
 
 body .page-container {
-  width: 400px;
+  width: 600px;
   padding: 20px 32px;
   margin: 0 auto;
   background-color: white;
